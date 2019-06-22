@@ -1,0 +1,9 @@
+swagger:
+  title: blog-maybe-api-doc
+  description: 博客系统maybe接口文档
+  version: 1.0.0
+  contact:
+    url: http://www.dashuai.cloud
+    name: 大帅
+    email: 616786733@qq.com
+  base-package: com.dashuai.maybe.web.controller
